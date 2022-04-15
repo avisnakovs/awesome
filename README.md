@@ -8,6 +8,7 @@ This is a collection of resources that I find very useful for learning programmi
   - [Coursera](#coursera)
   - [Udemy](#udemy)
   - [Talks](#talks)
+  - [Books](#books)
 
 
 ## Games
@@ -46,4 +47,18 @@ _Games to learn programming_
 
 **[⬆ back to top](#contents)**
 
+## Books
 
+- [Computer Science Distilled: Learn the Art of Solving Computational Problems](https://www.goodreads.com/book/show/34189798-computer-science-distilled)
+- [Grokking Algorithms An Illustrated Guide For Programmers and Other Curious People](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
+- [Code: The Hidden Language of Computer Hardware and Software](https://www.goodreads.com/book/show/44882.Code)
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code)
+- [Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture)
+- [Test-Driven Development: By Example](https://www.goodreads.com/book/show/387190.Test_Driven_Development)
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer)
+- [Seven Databases in Seven Weeks: A Guide to Modern Databases and the NoSQL Movement](https://www.goodreads.com/book/show/13130963-seven-databases-in-seven-weeks)
+- [Scalability Rules: 50 Principles for Scaling Web Sites](https://www.goodreads.com/book/show/10758425-scalability-rules)
+- [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications)
+- [Structure and Interpretation of Computer Programs](https://www.goodreads.com/book/show/43713.Structure_and_Interpretation_of_Computer_Programs)
+
+**[⬆ back to top](#contents)**
