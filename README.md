@@ -36,3 +36,10 @@ _Games to learn programming_
 - [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
 
 **[⬆ back to top](#contents)**
+
+## Talks
+
+- [David Crawshaw SQLite and Go](https://www.youtube.com/watch?v=RqubKSF3wig)
+- [Kill "Microservices" before its too late by Chad Fowler](https://www.youtube.com/watch?v=-UKEPd2ipEk)
+- [Concurrency is not Parallelism by Rob Pike](https://www.youtube.com/watch?v=oV9rvDllKEg)
+
