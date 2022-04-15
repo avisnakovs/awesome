@@ -7,6 +7,7 @@ This is a collection of resources that I find very useful for learning programmi
   - [Games](#games)
   - [Coursera](#coursera)
   - [Udemy](#udemy)
+  - [Talks](#talks)
 
 
 ## Games
