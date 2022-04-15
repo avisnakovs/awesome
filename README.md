@@ -6,6 +6,7 @@ This is a collection of resources that I find very useful for learning programmi
 - [Awesome Programming](#awesome-programming)
   - [Games](#games)
   - [Coursera](#coursera)
+  - [Udemy](#udemy)
 
 
 ## Games
@@ -26,5 +27,12 @@ _Games to learn programming_
 - [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)
 - [Algorithms I](https://www.coursera.org/learn/algorithms-part1)
 - [Algorithms II](https://www.coursera.org/learn/algorithms-part2)
+
+**[⬆ back to top](#contents)**
+
+## Udemy
+
+- [Beat the Codility Coding Interview in Java](https://www.udemy.com/course/beat-the-codility-coding-interview-in-java/)
+- [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/)
 
 **[⬆ back to top](#contents)**
